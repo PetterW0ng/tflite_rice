@@ -1,0 +1,78 @@
+{
+    "wheat": [
+      {
+        "name_en": "Wheat_Brown_rust",
+        "name": "小麦褐锈病",
+        "symptoms": "叶片出现红褐色粉状孢子堆，严重时导致叶片枯死。",
+        "prevention": "选用抗病品种，及时喷施三唑类杀菌剂。"
+      },
+      {
+        "name_en": "Wheat_Healthy",
+        "name": "健康小麦",
+        "symptoms": "无病害症状，植株生长正常。",
+        "prevention": "保持合理种植密度，定期施肥。"
+      },
+      {
+        "name_en": "Wheat_Smut",
+        "name": "小麦黑粉病",
+        "symptoms": "穗部形成黑色粉状孢子团，破坏籽粒。",
+        "prevention": "种子消毒，避免连作。"
+      },
+      {
+        "name_en": "Wheat_Yellow_rust",
+        "name": "小麦黄锈病",
+        "symptoms": "叶片出现鲜黄色条状孢子堆。",
+        "prevention": "早期喷施戊唑醇或嘧菌酯。"
+      },
+      {
+        "name_en": "Wheat_Stem_Rust",
+        "name": "小麦秆锈病",
+        "symptoms": "茎秆和叶鞘出现褐色隆起孢子堆。",
+        "prevention": "销毁病残体，轮作非禾本科作物。"
+      }
+    ],
+    "rice": [
+      {
+        "name_en": "Rice_Blast",
+        "name": "稻瘟病",
+        "symptoms": "叶片出现菱形褐斑，穗颈腐烂导致白穗。",
+        "prevention": "避免过量施氮肥，喷施稻瘟灵。"
+      },
+      {
+        "name_en": "Bacterial_Leaf_Blight",
+        "name": "白叶枯病",
+        "symptoms": "叶片边缘出现黄白色条斑，有菌脓溢出。",
+        "prevention": "种植抗病品种，减少田间积水。"
+      },
+      {
+        "name_en": "Brown_Spot",
+        "name": "胡麻叶斑病",
+        "symptoms": "叶片出现褐色小斑点，周围有黄色晕圈。",
+        "prevention": "增施钾肥，喷施代森锰锌。"
+      },
+      {
+        "name_en": "Yizhuxiang",
+        "name": "水稻一炷香",
+        "symptoms": "植株矮化，穗部直立不结实。",
+        "prevention": "及时拔除病株，防治传毒介体。"
+      },
+      {
+        "name_en": "False_Smut",
+        "name": "稻曲病",
+        "symptoms": "穗部籽粒被绿色或黑色粉状物包裹。",
+        "prevention": "抽穗前喷施井冈霉素。"
+      },
+      {
+        "name_en": "Healthy_Rice",
+        "name": "健康水稻",
+        "symptoms": "无病害症状，植株生长旺盛。",
+        "prevention": "平衡施肥，科学管水。"
+      },
+      {
+        "name_en": "Rice_Stripe_Virus",
+        "name": "条纹叶枯病",
+        "symptoms": "叶片出现黄白色条纹，植株矮化。",
+        "prevention": "防治灰飞虱，种植抗病品种。"
+      }
+    ]
+  }

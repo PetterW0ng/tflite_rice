@@ -1,0 +1,38 @@
+name: kds_app_v2
+description: "A Flutter application for crop disease recognition."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  image_picker: ^1.0.4
+  cupertino_icons: ^1.0.8
+  camera: ^0.10.5  # 添加摄像头支持
+  camera_android_camerax: 0.6.9
+  tflite_flutter: 0.11.0  # 最稳定的旧版本
+  image: ^4.1.7  # 添加图像处理库
+  #tflite_v2: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:  # 追加资源声明
+    - assets/images/rice_bg.jpg
+    - assets/images/wheat_bg.jpg
+    - assets/models/rice_model.tflite
+    - assets/models/wheat_model.tflite
+    - assets/configs/
+  fonts:  # 追加字体声明
+    - family: MyFont
+      fonts:
+        - asset: assets/fonts/my_font.ttf

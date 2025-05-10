@@ -1,0 +1,5 @@
+0 Wheat_Brown_rust
+1 Wheat_Healthy
+2 Wheat_Smut
+3 Wheat_Yellow_rust
+4 Wheat_Stem_Rust

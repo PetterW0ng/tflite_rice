@@ -1,0 +1,7 @@
+0 Rice_Blast
+1 Bacterial_Leaf_Blight
+2 Brown_Spot
+3 Yizhuxiang
+4 False_Smut
+5 Healthy_Rice
+6 Rice_Stripe_Virus
